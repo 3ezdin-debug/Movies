@@ -16,5 +16,4 @@ public class Movie {
     private String title;
     private Date releaseDate;
     private double rating;
-    private boolean watched;
 }
